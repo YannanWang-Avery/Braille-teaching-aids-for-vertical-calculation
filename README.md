@@ -1,3 +1,3 @@
 # Braille-teaching-aids-for-vertical-calculation
 
-[在线查看报告](https://docs.google.com/viewer?url=https://github.com/用户名/仓库名/raw/main/项目report.pdf)
+[View Project_report online]](https://docs.google.com/viewer?url=https://github.com/YannanWang-Avery/Braille-teaching-aids-for-vertical-calculation/raw/main/Project_report.pdf)
